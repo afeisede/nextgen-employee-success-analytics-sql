@@ -1,6 +1,14 @@
 # Behavioral & Retention Analytics using SQL (NextGen Corp)
 
-SQL-driven analysis of employee retention, performance, and remuneration patterns to identify turnover risks, performance gaps, and compensation fairness issues.
+## Summary
+
+This project analyzes employee behavior, retention, and compensation patterns using SQL to uncover key drivers of turnover and performance.
+
+### Key Outcomes:
+- Identified high-turnover departments (Marketing: 93%, Engineering: 67%)
+- Detected weak alignment between salary and performance
+- Highlighted early attrition risk (20% leave within 1 year)
+- Delivered actionable recommendations to improve retention and compensation fairness
 
 ## Project Overview
 
@@ -48,14 +56,33 @@ The project focused on three key goals:
 * How many employees earn above 80,000 by department and job title?
 * How does salary relate to performance across departments?
 
+## Product Analytics Interpretation
+
+Although this dataset is based on employee data, the same analytical approach applies to user behavior in digital products.
+
+- Employee retention → User retention
+- Turnover → Churn
+- Departments → User segments or cohorts
+- Performance → Engagement or activity levels
+
+This demonstrates how SQL can be used to analyze behavior, identify at-risk groups, and support data-driven product decisions.
+
+## Analytical Approach
+
+- Data exploration and validation using SQL
+- Aggregation and grouping to identify behavioral patterns
+- Segmentation of users based on performance and retention
+- Comparative analysis across departments (cohorts)
+- Translation of query outputs into business insights and recommendations
+
 ## Key Insights
 
-### Key Insights (Preview)
+### Preview
 
-#### Turnover Analysis
+#### Retention & Churn Analysis
 ![Turnover](images/turnover_analysis.png)
 
-#### Performance Distribution
+#### User Performance Segmentation
 ![Performance](images/performance_distribution.png)
 
 #### Salary Analysis
@@ -117,12 +144,6 @@ This project:
 * translate raw data into strategic recommendations,
 * communicate technical findings clearly,
 * and connect analytics work to retention, performance, and organizational decision-making.
-
-## Summary
-
-- Identified high-turnover departments (Marketing, Engineering)
-- Detected weak alignment between salary and performance
-- Provided data-driven recommendations to improve retention and compensation fairness
 
 ## Author
 
