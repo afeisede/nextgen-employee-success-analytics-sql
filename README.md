@@ -1,4 +1,4 @@
-# Employee Success Analytics at NextGen Corp.
+# Behavioral & Retention Analytics using SQL (NextGen Corp)
 
 SQL-driven analysis of employee retention, performance, and remuneration patterns to identify turnover risks, performance gaps, and compensation fairness issues.
 
@@ -50,6 +50,17 @@ The project focused on three key goals:
 
 ## Key Insights
 
+### Key Insights (Preview)
+
+#### Turnover Analysis
+![Turnover](images/turnover.png)
+
+#### Performance Distribution
+![Performance](images/performance.png)
+
+#### Salary Analysis
+![Salary](images/salary.png)
+
 ### 1. Employee Retention
 
 * About **20% of employees stayed one year or less**, showing significant early turnover.
@@ -69,14 +80,6 @@ The project focused on three key goals:
 * The analysis found **weak alignment between salary and performance**, especially in Engineering and Marketing.
 * Employees with strong performance did not consistently receive higher compensation, indicating possible fairness issues.
 
-## Sample Insights
-
-### Turnover Analysis
-![Turnover](images/turnover_analysis.png)
-
-### Performance Distribution
-![Performance](images/performance_distribution.png)
-
 ## Recommendations
 
 * Introduce a **fair performance-to-pay structure** across departments.
@@ -93,15 +96,18 @@ nextgen-employee-success-analytics/
 ├── sql/
 │   └── queries.sql
 ├── outputs/
-│   └── query_outputs.pdf or screenshots
+│   ├── outputs.pdf
+│   └── sql_analysis-output
 ├── presentation/
-│   └── NextGen_Corp_Employee_Retention_Performance_and_Remuneration_Analyses.pptx
-├── data/
-│   └── dataset.csv or database_export.sql
+│   ├── nextgen_hr_analytics_presentation.pptx
+│   └── presentation.pdf
 └── images/
-    └── charts_or_table_previews.png
+    ├── performance_distribution.png
+    ├── salary_analysis.png
+    ├── salary.png
+    ├── turnover_analysis.png
+    └── turover_rate.png
 ```
-
 
 ## Outcome
 
@@ -112,8 +118,13 @@ This project:
 * communicate technical findings clearly,
 * and connect analytics work to retention, performance, and organizational decision-making.
 
+## Summary
+
+- Identified high-turnover departments (Marketing, Engineering)
+- Detected weak alignment between salary and performance
+- Provided data-driven recommendations to improve retention and compensation fairness
+
 ## Author
 
 **Hamzat Afe Isede**
 Data Analyst / Data Scientist
-Canada
