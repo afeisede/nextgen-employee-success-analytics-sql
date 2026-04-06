@@ -2,12 +2,12 @@
 
 ## Summary
 
-This project analyzes employee behavior, retention, and compensation patterns using SQL to uncover key drivers of turnover and performance.
+This project analyzes behavioral patterns, retention, and compensation patterns using SQL to uncover key drivers of turnover and performance. 
 
 ### Key Outcomes:
-- Identified high-turnover departments (Marketing: 93%, Engineering: 67%)
-- Detected weak alignment between salary and performance
-- Highlighted early attrition risk (20% leave within 1 year)
+- Identified **high-turnover departments** (Marketing: 93%, Engineering: 67%)
+- Detected **weak alignment between salary and performance**
+- Highlighted **early attrition risk** (20% leave within 1 year)
 - Delivered actionable recommendations to improve retention and compensation fairness
 
 ## Project Overview
@@ -138,12 +138,11 @@ nextgen-employee-success-analytics/
 
 ## Outcome
 
-This project:
-
-* solve business problems with SQL,
-* translate raw data into strategic recommendations,
-* communicate technical findings clearly,
-* and connect analytics work to retention, performance, and organizational decision-making.
+This project demonstrates the ability to:
+- analyze behavioral data using SQL
+- identify retention risks and segment users
+- translate data into actionable business insights
+- communicate findings clearly to stakeholders
 
 ## Author
 
