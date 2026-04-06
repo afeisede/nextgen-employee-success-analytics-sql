@@ -53,10 +53,10 @@ The project focused on three key goals:
 ### Key Insights (Preview)
 
 #### Turnover Analysis
-![Turnover](images/turnover.png)
+![Turnover](images/turnover_analysis.png)
 
 #### Performance Distribution
-![Performance](images/performance.png)
+![Performance](images/performance_distribution.png)
 
 #### Salary Analysis
 ![Salary](images/salary.png)
